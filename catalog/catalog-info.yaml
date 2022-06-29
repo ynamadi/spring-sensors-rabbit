@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: spring-sensors-rabbit
+  name: yn-spring-sensors
   description: Spring Sensors
   tags:
     - app-accelerator
@@ -13,4 +13,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: default-team
+  owner: penske-team
