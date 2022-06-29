@@ -9,7 +9,7 @@ metadata:
     - spring
     - tanzu
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=spring-sensors-rabbit'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=yn-spring-sensors'
 spec:
   type: service
   lifecycle: experimental
